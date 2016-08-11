@@ -5,12 +5,13 @@ Système simulant une pige de Noel au hasard parmi les participants.
 
 ## Usage
 
-Pour utiliser l'invite de commandes:
-(On assume que vous êtes l'administrateur de la plate-forme. )
+Pour utiliser l'invite de commandes: 
+*(On assume que vous êtes l'administrateur de la plate-forme.) *
+
 1. Installer nodejs: https://nodejs.org/en/download/
 2. Ouvrir une invite de commande à la racine du projet. Exécuter:
-	* npm install (la première fois seulement)
-	* node API
+  * npm install (la première fois seulement)
+  * node API
 
 *À noter: il n'y a pas d'utilisateur/mot de passe vérifiés, vous pouvez inscrire n'importe quoi.*
 
