@@ -1,0 +1,27 @@
+{
+  "name": "Pige",
+  "version": "0.1.0",
+  "description": "API de pige semi-aléatoire parmis les participants inscrits.",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "SET NODE_ENV=test & mocha"
+  },
+  "repository" :
+  { "type" : "git", 
+  	"url" : "https://github.com/davidBoucher/test_ubisoft_goo.git"
+  },
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "dependencies" : { 
+  	"chai" : "latest", 
+  	"mocha" : "latest", 
+  	"readline" : "latest", 
+  	"winston" : "latest"
+  },
+  "author": "David Boucher",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
