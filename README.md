@@ -12,27 +12,29 @@ Pour utiliser l'invite de commandes:
 	* npm install (la première fois seulement)
 	* node API
 
-_À noter: il n'y a pas d'utilisateur/mot de passe vérifiés, vous pouvez inscrire n'importe quoi._
+*À noter: il n'y a pas d'utilisateur/mot de passe vérifiés, vous pouvez inscrire n'importe quoi.*
 
-Exemple de session:
+### Exemple de session:
 
-> inscrire Bob
-> inscrire Jane
-> inscrire David
-> inscrire Claire
-> inscrire Eric
-> inscrire Bill
-> inscrire Joe
-> associerConjoints Bob Jane
-> associerConjoints David Claire
-> lancerPige
-> obtenirResultat Bob
-> obtenirResultat Jane
-> obtenirResultat David
-> obtenirResultat Claire
-> obtenirResultat Eric
-> obtenirResultat Bill
-> obtenirResultat Joe
+```
+inscrire Bob
+inscrire Jane
+inscrire David
+inscrire Claire
+inscrire Eric
+inscrire Bill
+inscrire Joe
+associerConjoints Bob Jane
+associerConjoints David Claire
+lancerPige
+obtenirResultat Bob
+obtenirResultat Jane
+obtenirResultat David
+obtenirResultat Claire
+obtenirResultat Eric
+obtenirResultat Bill
+obtenirResultat Joe
+```
 
 Pour les tests unitaires, ouvrir une invite de commande dans le répertoire test. Exécuter:
 * npm test
