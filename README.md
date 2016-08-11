@@ -43,6 +43,7 @@ Pour les tests unitaires, ouvrir une invite de commande dans le répertoire test.
 ## Developing
 
 Fonctionnalités intéressantes à ajouter:
+* Plus important: Envoyer/recevoir données en format JSON
 * Localisation des textes, messages d'erreur, etc. (pour changer facilement de langue).
 * Persistence des données (pour l'instant elles ne sont conservées qu'aussi longtemps que l'application est exécutée).
 * Importation massive de données initiales (via un fichier texte par exemple).
